@@ -1,5 +1,4 @@
 # Model File 
-## Model File
 
 The trained machine learning model (`house_price_model.pkl`) is not included in this repository because its size exceeds GitHub's file size limit.
 
